@@ -172,6 +172,7 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 ## Contribute
 
 Contributions are always welcome!
+
 Please read the [contribution guidelines](contributing.md) first.
 
 ## License
